@@ -1,0 +1,17 @@
+/*
+Theme Name: James's Theme 
+Author: james
+Description: theme test
+Version: 1.0
+*/
+
+.header{
+    text-align: center;
+    background-color: rgb(148, 148, 148);
+    height: 10rem;
+}
+
+.post .post-item{
+    margin-bottom: 1rem;
+    padding: 2rem;
+}

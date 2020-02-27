@@ -1,5 +1,6 @@
 <?php get_header(); ?>
 <div class="post">
+    <p><?php echo "搜索词：" . get_search_query() ?></p>
     <?php
     if (have_posts()) {
         while (have_posts()) {

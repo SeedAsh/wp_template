@@ -5,6 +5,16 @@ Description: theme test
 Version: 1.0
 */
 
+#menu ul{
+    margin: 1rem 0px;
+    padding: 0;
+}
+
+#menu li{
+    display: inline;
+    margin-right: 5rem;
+}
+
 .header{
     text-align: center;
     background-color: rgb(148, 148, 148);
